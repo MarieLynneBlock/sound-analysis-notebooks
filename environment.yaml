@@ -9,5 +9,7 @@ dependencies:
   - ipython
   - pyyaml
   - pip
+  - plotly
+  - dash
   - pip:
       - python-dotenv
